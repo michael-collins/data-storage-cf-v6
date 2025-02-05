@@ -1,3 +1,22 @@
 {
-  "libraries": []
+  "libraries": [
+    {
+      "id": "0cd9e5cd-1797-40dc-95b0-05713ae1baa7",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "name": "lib 3",
+      "description": "",
+      "is_public": false,
+      "created_at": "2025-02-05T20:26:47.680Z",
+      "updated_at": "2025-02-05T20:26:47.680Z"
+    },
+    {
+      "id": "fbbe80c2-b3a9-49d5-8c9f-8170b9fabde9",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "name": "124",
+      "description": "",
+      "is_public": false,
+      "created_at": "2025-02-05T20:39:08.739Z",
+      "updated_at": "2025-02-05T20:39:08.739Z"
+    }
+  ]
 }
