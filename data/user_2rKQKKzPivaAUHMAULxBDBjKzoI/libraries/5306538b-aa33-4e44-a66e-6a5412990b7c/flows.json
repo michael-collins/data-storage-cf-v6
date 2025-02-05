@@ -12,16 +12,15 @@
           {
             "id": "dd102cb7-6430-464d-85ca-f247716d3f86",
             "name": "f1",
-            "materials": [
-              {
-                "id": "ac26817b-273a-4202-95ed-aaebe7d74748",
-                "title": "mat 1",
-                "indent": 0
-              }
-            ]
+            "materials": []
           },
           {
             "id": "a1a852be-d5b2-4861-ac57-874becebe1b6",
+            "name": "New Group",
+            "materials": []
+          },
+          {
+            "id": "94c9e93e-6732-46cf-9e42-bbb0fd721378",
             "name": "New Group",
             "materials": []
           }
