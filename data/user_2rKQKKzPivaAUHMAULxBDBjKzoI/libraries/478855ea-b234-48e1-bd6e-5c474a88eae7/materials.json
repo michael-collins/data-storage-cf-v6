@@ -1,0 +1,20 @@
+{
+  "materials": [
+    {
+      "id": "e7272bf8-e95e-4121-b643-3b13a00beb85",
+      "library_id": "478855ea-b234-48e1-bd6e-5c474a88eae7",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "title": "mat 1",
+      "description": "",
+      "typeId": "5671c6b2-e6e3-4517-bf19-2f705407ab80",
+      "fields": {
+        "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "content for mat 1",
+        "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "obj for mat 1",
+        "ddd2b2cb-ab72-49a4-9593-dc723fc77058": "2"
+      },
+      "isGlobal": false,
+      "created_at": "2025-02-05T18:56:33.513Z",
+      "updated_at": "2025-02-05T18:56:33.513Z"
+    }
+  ]
+}
