@@ -90,11 +90,16 @@
             "id": "f82789a1-7499-40fd-9220-7003f90b203d",
             "name": "New Group",
             "materials": []
+          },
+          {
+            "id": "d70772e4-eff6-426f-8f6f-7c8a3f90b22e",
+            "name": "New Group",
+            "materials": []
           }
         ]
       },
       "created_at": "2025-02-05T20:17:42.721Z",
-      "updated_at": "2025-02-05T20:24:37.170Z"
+      "updated_at": "2025-02-05T20:28:40.474Z"
     }
   ]
 }
