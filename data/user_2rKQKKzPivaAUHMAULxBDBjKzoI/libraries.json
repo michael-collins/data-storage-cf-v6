@@ -8,6 +8,15 @@
       "is_public": false,
       "created_at": "2025-02-05T20:01:18.118Z",
       "updated_at": "2025-02-05T20:01:18.118Z"
+    },
+    {
+      "id": "8b7a3e87-9414-44ee-a4c3-8c0f6bcc9528",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "name": "lib 2",
+      "description": "",
+      "is_public": false,
+      "created_at": "2025-02-05T20:25:34.632Z",
+      "updated_at": "2025-02-05T20:25:34.632Z"
     }
   ]
 }
