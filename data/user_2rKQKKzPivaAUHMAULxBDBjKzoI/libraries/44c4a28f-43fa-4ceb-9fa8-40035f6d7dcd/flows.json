@@ -8,7 +8,13 @@
       "name": "flow 1",
       "description": "",
       "content": {
-        "groups": []
+        "groups": [
+          {
+            "id": "3d2e817c-fbf7-4a99-8d20-154ebaecaec6",
+            "name": "New Group",
+            "materials": []
+          }
+        ]
       }
     }
   ]
