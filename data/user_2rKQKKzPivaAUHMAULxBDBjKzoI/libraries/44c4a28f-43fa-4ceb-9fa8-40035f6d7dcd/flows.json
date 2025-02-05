@@ -12,10 +12,17 @@
           {
             "id": "3d2e817c-fbf7-4a99-8d20-154ebaecaec6",
             "name": "New Group",
-            "materials": []
+            "materials": [
+              {
+                "id": "55509c95-50ce-4a32-98e0-b3026669c950",
+                "title": "mat 1",
+                "indent": 0
+              }
+            ]
           }
         ]
-      }
+      },
+      "updated_at": "2025-02-05T19:14:06.030Z"
     }
   ]
 }
