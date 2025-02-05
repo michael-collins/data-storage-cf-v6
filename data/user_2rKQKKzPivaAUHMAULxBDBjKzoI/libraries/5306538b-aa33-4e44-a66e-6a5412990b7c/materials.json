@@ -23,12 +23,12 @@
       "title": "mat 2",
       "description": "",
       "content": {
-        "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "234",
-        "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "234"
+        "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "2345",
+        "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "2345"
       },
       "is_global": false,
       "created_at": "2025-02-05T19:56:48.602Z",
-      "updated_at": "2025-02-05T19:56:48.602Z"
+      "updated_at": "2025-02-05T19:57:58.475Z"
     }
   ]
 }
