@@ -59,6 +59,18 @@
       },
       "created_at": "2025-02-05T20:09:57.045Z",
       "updated_at": "2025-02-05T20:11:20.686Z"
+    },
+    {
+      "id": "f18279a9-cff6-4e97-bd10-d4f859a6691e",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "library_id": "70c050ad-443e-4c8e-844f-aac5a5704a0d",
+      "sort_order": 3,
+      "name": "f6",
+      "description": "",
+      "content": {
+        "groups": []
+      },
+      "created_at": "2025-02-05T20:13:50.829Z"
     }
   ]
 }
