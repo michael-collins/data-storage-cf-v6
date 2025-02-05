@@ -80,9 +80,16 @@
       "name": "f7",
       "description": "",
       "content": {
-        "groups": []
+        "groups": [
+          {
+            "id": "4e8c3857-f776-459b-a1d6-718d4d7d4f12",
+            "name": "New Group",
+            "materials": []
+          }
+        ]
       },
-      "created_at": "2025-02-05T20:17:42.721Z"
+      "created_at": "2025-02-05T20:17:42.721Z",
+      "updated_at": "2025-02-05T20:21:55.967Z"
     }
   ]
 }
