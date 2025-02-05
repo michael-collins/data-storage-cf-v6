@@ -1,3 +1,13 @@
 {
-  "libraries": []
+  "libraries": [
+    {
+      "name": "eyj",
+      "description": "",
+      "id": "2ea4c0cf-1dde-4471-bfdb-e9a265bcd61a",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "created_at": "2025-02-05T20:50:58.462Z",
+      "updated_at": "2025-02-05T20:50:58.462Z",
+      "is_public": false
+    }
+  ]
 }
