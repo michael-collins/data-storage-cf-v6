@@ -85,11 +85,16 @@
             "id": "4e8c3857-f776-459b-a1d6-718d4d7d4f12",
             "name": "New Group",
             "materials": []
+          },
+          {
+            "id": "f82789a1-7499-40fd-9220-7003f90b203d",
+            "name": "New Group",
+            "materials": []
           }
         ]
       },
       "created_at": "2025-02-05T20:17:42.721Z",
-      "updated_at": "2025-02-05T20:21:55.967Z"
+      "updated_at": "2025-02-05T20:24:37.170Z"
     }
   ]
 }
