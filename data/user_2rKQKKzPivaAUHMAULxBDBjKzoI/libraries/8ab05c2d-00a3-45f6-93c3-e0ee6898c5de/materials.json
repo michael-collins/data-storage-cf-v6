@@ -36,14 +36,14 @@
       "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
       "type_id": "258d7621-fc48-4665-9217-b289d06723c3",
       "title": "666",
-      "description": "",
+      "description": "654456",
       "content": {
-        "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "546456",
-        "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "456"
+        "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "54645664645645",
+        "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "456123123"
       },
       "is_global": false,
       "created_at": "2025-02-05T21:02:21.274Z",
-      "updated_at": "2025-02-05T21:02:21.274Z"
+      "updated_at": "2025-02-05T21:04:19.790Z"
     }
   ]
 }
