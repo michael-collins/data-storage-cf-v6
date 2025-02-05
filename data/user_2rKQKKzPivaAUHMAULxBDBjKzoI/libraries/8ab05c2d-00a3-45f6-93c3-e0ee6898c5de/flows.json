@@ -8,7 +8,19 @@
       "name": "321",
       "description": "123",
       "content": {
-        "groups": []
+        "groups": [
+          {
+            "id": "ea82faca-5893-4bce-bcbe-1da264ae7906",
+            "name": "New Group",
+            "materials": [
+              {
+                "id": "2e02a7a8-cfea-4783-b95f-853880939339",
+                "title": "123",
+                "indent": 0
+              }
+            ]
+          }
+        ]
       }
     }
   ]
