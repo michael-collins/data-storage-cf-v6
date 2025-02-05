@@ -6,14 +6,14 @@
       "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
       "type_id": "5671c6b2-e6e3-4517-bf19-2f705407ab80",
       "title": "mat 1",
-      "description": "",
+      "description": "hi",
       "content": {
         "0fa9dc46-7be4-4170-bab6-a0fb742c1eab": "123",
         "e6c91fa0-7c92-4155-950f-f71e4a7fcd69": "123"
       },
       "is_global": false,
       "created_at": "2025-02-05T20:02:02.990Z",
-      "updated_at": "2025-02-05T20:02:02.990Z"
+      "updated_at": "2025-02-05T20:02:27.835Z"
     }
   ]
 }
