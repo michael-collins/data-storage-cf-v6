@@ -1,0 +1,15 @@
+{
+  "flows": [
+    {
+      "id": "4f1f15f2-d716-4212-93b4-95dbbb33c2f4",
+      "user_id": "user_2rKQKKzPivaAUHMAULxBDBjKzoI",
+      "library_id": "44c4a28f-43fa-4ceb-9fa8-40035f6d7dcd",
+      "sort_order": 0,
+      "name": "flow 1",
+      "description": "",
+      "content": {
+        "groups": []
+      }
+    }
+  ]
+}
